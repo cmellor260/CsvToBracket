@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVData", "CSVData.csproj", "{0DDBF7A5-AF04-4345-88AB-43A6CD2DA6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVDataTests", "..\CSVDataTests\CSVDataTests.csproj", "{11D001B8-782E-43E5-A78D-74DF635305E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DDBF7A5-AF04-4345-88AB-43A6CD2DA6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDBF7A5-AF04-4345-88AB-43A6CD2DA6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDBF7A5-AF04-4345-88AB-43A6CD2DA6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDBF7A5-AF04-4345-88AB-43A6CD2DA6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11D001B8-782E-43E5-A78D-74DF635305E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D001B8-782E-43E5-A78D-74DF635305E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D001B8-782E-43E5-A78D-74DF635305E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D001B8-782E-43E5-A78D-74DF635305E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E5B8DC2-B1EC-44A0-A617-732C1C18C0ED}
+	EndGlobalSection
+EndGlobal

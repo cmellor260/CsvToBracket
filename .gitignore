@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSVData/bin/Debug/net8.0
+/CSVData/.vs/CSVData
+/CSVData/obj/Debug/net8.0
+/CSVData/obj
+/CSVData/CSVData.csproj.user
+/CSVDataTests/bin/Debug/net8.0
+/CSVDataTests/obj

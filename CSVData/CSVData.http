@@ -1,0 +1,6 @@
+@CSVData_HostAddress = http://localhost:5122
+
+GET {{CSVData_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
